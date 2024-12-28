@@ -9,6 +9,7 @@ import org.springframework.context.annotation.Configuration;
 public class ObservationConfig {
     @Bean
     ObservedAspect observedAspect(ObservationRegistry registry) {
+        //Comment
         return new ObservedAspect(registry);
     }
 }

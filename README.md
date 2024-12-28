@@ -5,6 +5,7 @@ This project contains the source code for the [Spring Boot 3 Observability with 
 
 To run the project, you need to have Docker and Docker Compose installed. Then, run the following command:
 
+Change
 ```docker compose up -d```
 
 Run Loan Service Application
